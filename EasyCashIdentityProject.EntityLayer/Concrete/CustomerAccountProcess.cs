@@ -14,3 +14,7 @@ namespace EasyCashIdentityProject.EntityLayer.Concrete
         public DateTime ProcessDate { get; set; }
     }
 }
+
+/*
+ * ID - işlem türü (gelen giden ödeme) -miktar -tarih - alıcı - gönderici
+ */
